@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFoodBucket</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_text">Something</string>
+    <string name="pick_one">Pick one !</string>
+    <string name="bucketList">bucketlist</string>
+</resources>
